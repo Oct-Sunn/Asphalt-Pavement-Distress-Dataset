@@ -24,10 +24,10 @@ Below are some example images from the Asphalt Pavement Distress Dataset, demons
 <img src="https://github.com/Oct-Sunn/Asphalt-Pavement-Distress-Dataset/blob/main/Example%20pictures/images1.jpg?raw=true" alt="Crack Example" width="400">
 
 ### Pothole Example
-<img src="../Example pictures/images6.jpg" alt="Crack Example" width="400">
+<img src="https://github.com/Oct-Sunn/Asphalt-Pavement-Distress-Dataset/blob/main/Example%20pictures/images6.jpg?raw=true" alt="Pothole Example" width="400">
 
 ### Road Marking Distress Example
-![Road Marking Distress Example](../Example pictures/images5.jpg)
+<img src="https://github.com/Oct-Sunn/Asphalt-Pavement-Distress-Dataset/blob/main/Example%20pictures/images5.jpg?raw=true" alt="Road Marking Distress Example" width="400">
 
 
 ## Annotation Format: Annotations are provided in standard formats (e.g., COCO, YOLO) to facilitate use with popular object detection frameworks.
