@@ -7,14 +7,14 @@ To provide a comprehensive benchmark for the detection, classification, and anal
 ### Origin: 
 The dataset was developed as part of the research for the paper titled **"DSWMamba: A deep feature fusion mamba network for comprehensive detection of asphalt pavement distress"**, which demonstrated state-of-the-art performance in both accuracy and efficiency. If you use this dataset, please cite the paper. Thank you.
 
-## Distress Categories: The dataset includes six types of pavement distress:
-Transverse Cracks
-Longitudinal Cracks
-Alligator Cracks
-Potholes
-Diagonal Cracks
-Road Marking Distresses
-Number of Images: 13,129 labeled images.
+## Distress Categories: The dataset includes six types of pavement distress: <br>
+Transverse Cracks <br>
+Longitudinal Cracks <br>
+Alligator Cracks <br>
+Potholes <br>
+Diagonal Cracks <br>
+Road Marking Distresses <br>
+Number of Images: 13,129 labeled images. 
 
 ## Example Images
 
