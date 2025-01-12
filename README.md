@@ -16,6 +16,20 @@ Diagonal Cracks
 Road Marking Distresses
 Number of Images: 13,129 labeled images.
 
+## Example Images
+
+Below are some example images from the Asphalt Pavement Distress Dataset, demonstrating different types of road marking distresses, including cracks, potholes, and alligator cracks.
+
+### Crack Example
+![Crack Example](Example pictures/images1.jpg)
+
+### Pothole Example
+![Pothole Example](Example pictures/images6.jpg)
+
+### Road Marking Distress Example
+![Road Marking Distress Example](Example pictures/images5.jpg)
+
+
 ## Annotation Format: Annotations are provided in standard formats (e.g., COCO, YOLO) to facilitate use with popular object detection frameworks.
 
 You can download the Dataset in here: [Asphalt-Pavement-Distress-Dataset](https://drive.google.com/file/d/13eVV1NJdUKmrUlP1Ee7Pw6fxklUQTV07/view?usp=drive_link)
