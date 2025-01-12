@@ -30,6 +30,7 @@ Below are some example images from the Asphalt Pavement Distress Dataset, demons
 <img src="https://github.com/Oct-Sunn/Asphalt-Pavement-Distress-Dataset/blob/main/Example%20pictures/images5.jpg?raw=true" alt="Road Marking Distress Example" width="400">
 
 
-## Annotation Format: Annotations are provided in standard formats (e.g., COCO, YOLO) to facilitate use with popular object detection frameworks.
+## Annotation Format: 
+Annotations are provided in standard formats (e.g., COCO, YOLO) to facilitate use with popular object detection frameworks.
 
 You can download the Dataset in here: [Asphalt-Pavement-Distress-Dataset](https://drive.google.com/file/d/13eVV1NJdUKmrUlP1Ee7Pw6fxklUQTV07/view?usp=drive_link)
