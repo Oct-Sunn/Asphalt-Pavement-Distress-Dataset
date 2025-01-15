@@ -5,7 +5,7 @@ This repository contains the Asphalt Pavement Distress Dataset from the DSWMamba
 ### Dataset Purpose: 
 To provide a comprehensive benchmark for the detection, classification, and analysis of asphalt pavement distress under real-world scenarios.
 ### Origin: 
-The dataset was developed as part of the research for the paper titled **"DSWMamba: A deep feature fusion mamba network for comprehensive detection of asphalt pavement distress"**, which demonstrated state-of-the-art performance in both accuracy and efficiency. If you use this dataset, please cite the paper. Thank you.
+The dataset was developed as part of the research for the paper titled **"DSWMamba: A deep feature fusion mamba network for detection of asphalt pavement distress"**, which demonstrated state-of-the-art performance in both accuracy and efficiency. If you use this dataset, please cite the paper. Thank you.
 
 ## Distress Categories: The dataset includes six types of pavement distress: <br>
 Transverse Cracks <br>
